@@ -26,8 +26,9 @@ This project involves analyzing FIFA 2021 player data to gain insights and perfo
 - Pandas
 - Matplotlib
 - Seaborn
-Usage
+
+### Usage
 This project provides a comprehensive analysis of FIFA 2021 player data and can serve as a foundation for more advanced data analysis tasks and insights.
 
-Credits
+### Credits
 This project was created by Piotr on September 21, 2023.

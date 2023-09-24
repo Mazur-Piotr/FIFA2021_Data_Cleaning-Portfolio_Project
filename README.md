@@ -11,21 +11,21 @@ This project involves analyzing FIFA 2021 player data to gain insights and perfo
 - Filled null values in the 'Hits' column with zeros.
 - Cleaned the 'Club' column from '\n\n\n\n' values.
 ### 2. Data Transformation
-Converted the 'Joined' column to a proper date-time format.
-Converted the 'Height' column to centimeters.
-Converted the 'Weight' column to kilograms.
-Converted 'Value' to values in millions.
-Converted 'Wage' to values in thousands.
-Removed star symbols from 'W/F,' 'SM,' and 'IR' columns.
+- Converted the 'Joined' column to a proper date-time format.
+- Converted the 'Height' column to centimeters.
+- Converted the 'Weight' column to kilograms.
+- Converted 'Value' to values in millions.
+- Converted 'Wage' to values in thousands.
+- Removed star symbols from 'W/F,' 'SM,' and 'IR' columns.
 ### 3. Data Visualization
-Created a joint plot to visualize the relationship between Age and Overall Rating (OVA), with additional breakdown on righ or left foot. 
-Displayed the distribution of Overall Ratings (OVA) for all players using a histogram.
-Calculated the frequency of players in different Overall Rating (OVA) ranges and visualized it with a pie chart.
+- Created a joint plot to visualize the relationship between Age and Overall Rating (OVA), with additional breakdown on righ or left foot. 
+- Displayed the distribution of Overall Ratings (OVA) for all players using a histogram.
+- Calculated the frequency of players in different Overall Rating (OVA) ranges and visualized it with a pie chart.
 ## Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 Usage
 This project provides a comprehensive analysis of FIFA 2021 player data and can serve as a foundation for more advanced data analysis tasks and insights.
 

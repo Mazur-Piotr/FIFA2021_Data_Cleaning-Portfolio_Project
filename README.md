@@ -4,12 +4,12 @@ This project involves analyzing FIFA 2021 player data to gain insights and perfo
 
 ## Project Structure
 ### 1. Data Import and Cleaning
-Imported FIFA player data from a zip file.
-Checked and explored the dataset.
-Dropped unnecessary columns.
-Renamed columns for clarity.
-Filled null values in the 'Hits' column with zeros.
-Cleaned the 'Club' column from '\n\n\n\n' values.
+- Imported FIFA player data from a zip file.
+- Checked and explored the dataset.
+- Dropped unnecessary columns.
+- Renamed columns for clarity.
+- Filled null values in the 'Hits' column with zeros.
+- Cleaned the 'Club' column from '\n\n\n\n' values.
 ### 2. Data Transformation
 Converted the 'Joined' column to a proper date-time format.
 Converted the 'Height' column to centimeters.

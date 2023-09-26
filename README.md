@@ -26,10 +26,15 @@ The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Valu
   ![image](https://github.com/Mazur-Piotr/FIFA2021_Data_Cleaning-Portfolio_Project/assets/138219323/65419315-0df6-4037-b128-376730bd59b0)
 <br>
 - Displayed the distribution of Overall Ratings (OVA) for all players using a histogram. <br><br>
+
 ![image](https://github.com/Mazur-Piotr/FIFA2021_Data_Cleaning-Portfolio_Project/assets/138219323/6ced9a39-642d-48fb-9905-18cecfb34034)
+
 <br>  
+
 - Calculated the frequency of players in different Overall Rating (OVA) ranges and visualized it with a pie chart. <br>
+
 ![image](https://github.com/Mazur-Piotr/FIFA2021_Data_Cleaning-Portfolio_Project/assets/138219323/34bdfd53-b8bf-4b23-a0ae-8237222044ca)
+
 <br>
 
 ## Technologies Used

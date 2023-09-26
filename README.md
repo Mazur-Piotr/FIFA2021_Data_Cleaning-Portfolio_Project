@@ -22,7 +22,9 @@ The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Valu
 - Converted 'Wage' to values in thousands.
 - Removed star symbols from 'W/F,' 'SM,' and 'IR' columns.
 ### 3. Data Visualization
-- Created a joint plot to visualize the relationship between Age and Overall Rating (OVA), with additional breakdown on righ or left foot. 
+- Created a joint plot to visualize the relationship between Age and Overall Rating (OVA), with additional breakdown on righ or left foot.
+  ![image](https://github.com/Mazur-Piotr/FIFA2021_Data_Cleaning-Portfolio_Project/assets/138219323/65419315-0df6-4037-b128-376730bd59b0)
+
 - Displayed the distribution of Overall Ratings (OVA) for all players using a histogram.
 - Calculated the frequency of players in different Overall Rating (OVA) ranges and visualized it with a pie chart.
 ## Technologies Used

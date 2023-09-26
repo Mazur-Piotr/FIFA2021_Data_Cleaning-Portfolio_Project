@@ -4,7 +4,7 @@ This project involves analyzing FIFA 2021 player data to gain insights and perfo
 ## Dataset
 Dataset Source: Kaggle - <br>
 https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B <br> <br>
-The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Value etc. Data is in different formats, raw and messy, with further destination for cleaning, organizing and transformation.
+The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Value etc. Data is in different formats, raw and messy.
 
 ## Project Structure
 ### 1. Data Import and Cleaning

@@ -9,13 +9,13 @@ The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Valu
 ## Project Structure
 ### 1. Data Import and Cleaning
 - Imported FIFA player data from a zip file.
-- Checked and explored the dataset.
-- Dropped unnecessary columns.
+- Checked and explored the dataset using various methods such as: .head, .tail, .info, .shape, .describe, to better understand the dataset and be able to take insightfull actions. 
+- Dropped unnecessary columns, that are not useful for analysis.
 - Renamed columns for clarity.
-- Filled null values in the 'Hits' column with zeros.
-- Cleaned the 'Club' column from '\n\n\n\n' values.
+- Filled null values in the 'Hits' column with zeros, leaving null values could disrupt activities on this column.
+- Cleaned the 'Club' column from '\n\n\n\n' values. 
 ### 2. Data Transformation
-- Converted the 'Joined' column to a proper date-time format.
+- Converted the 'Joined' column to a proper date-time format, from 'Jul 1, 2004' to '2004-07-01'
 - Converted the 'Height' column to centimeters.
 - Converted the 'Weight' column to kilograms.
 - Converted 'Value' to values in millions.

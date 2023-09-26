@@ -124,6 +124,3 @@ The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Valu
 
 ### Usage
 This project provides a comprehensive analysis of FIFA 2021 player data and can serve as a foundation for more advanced data analysis tasks and insights.
-
-### Credits
-This project was created by Piotr on September 21, 2023.

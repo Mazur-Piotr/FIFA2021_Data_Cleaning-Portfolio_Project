@@ -22,10 +22,7 @@ This project involves analyzing FIFA 2021 player data to gain insights and perfo
 - Displayed the distribution of Overall Ratings (OVA) for all players using a histogram.
 - Calculated the frequency of players in different Overall Rating (OVA) ranges and visualized it with a pie chart.
 ## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+- Python: Pandas, Matplotlib, Seaborn
 
 ### Usage
 This project provides a comprehensive analysis of FIFA 2021 player data and can serve as a foundation for more advanced data analysis tasks and insights.

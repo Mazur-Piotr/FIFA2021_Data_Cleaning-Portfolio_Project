@@ -6,7 +6,7 @@ Dataset Source: Kaggle - <br>
 https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B <br> <br>
 The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Value etc. Data is in different formats, raw and messy.
 
-#   Column            Non-Null Count  Dtype 
+'#   Column            Non-Null Count  Dtype 
 ---  ------            --------------  ----- 
  0   ID                18979 non-null  int64 
  1   Name              18979 non-null  object
@@ -84,7 +84,7 @@ The dataset consists of FIFA 2021 players features such as Name, Club, OVA, Valu
  73  DRI               18979 non-null  int64 
  74  DEF               18979 non-null  int64 
  75  PHY               18979 non-null  int64 
- 76  Hits              16384 non-null  object
+ 76  Hits              16384 non-null  object'
 
 ## Project Structure
 ### 1. Data Import and Cleaning
